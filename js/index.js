@@ -65,5 +65,5 @@ while (handlerIndex < buttonLength) {
     clickHandler(e);
   });
   handlerIndex++;
-
+  window.alert('test');
 }
