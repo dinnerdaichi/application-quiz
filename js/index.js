@@ -21,8 +21,6 @@ const quiz = [
     correct: '調べたら著作権フリーじゃないです'
   },
 
-
-
 ];
 
 const quizLength = quiz.length;
